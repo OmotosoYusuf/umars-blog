@@ -1,0 +1,42 @@
+body{
+    box-sizing: border-box;
+    margin: 0% auto;
+    font-size: large;
+    text-align: center;
+    line-height: 1.5em;
+    background-color: bisque;
+}
+
+h1{
+    color: rgba(238, 14, 14, 0.856);
+    font-weight: bolder;
+}
+
+/* Images */
+.image{
+    border-radius: 50%;
+    border: 3px dotted rebeccapurple;
+    width: 25%;
+}
+
+/* about */
+.about-us{
+    font-size: 1.3em;
+    width: 50%;
+    margin: auto 25%;
+    text-align: center;
+}
+
+address{
+    background-color: orangered;
+    margin-top: 1%;
+    padding: 0.5%;
+}
+
+/* contact */
+.contact{
+    font-size: 1.3em;
+    width: 50%;
+    margin: auto 25%;
+    text-align: center;
+}
